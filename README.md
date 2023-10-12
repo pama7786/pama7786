@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/@drfarmajo7786" target="blank"><img src="https://img.shields.io/twitter/follow/@drfarmajo7786?logo=twitter&style=for-the-badge" alt="@drfarmajo7786" /></a> </p>
 
-- 🌱 I’m currently learning **Python as Backend**
+- 🌱 I’m currently learning **Python and Node.js as Backend**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT,**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT,Node.js**
 
 - 📫 How to reach me **abdirahmanfarmajo7786@gmail.com**
 
